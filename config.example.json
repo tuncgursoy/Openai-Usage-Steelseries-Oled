@@ -1,0 +1,5 @@
+{
+  "session_token": "API KEY HERE",
+  "poll_seconds": 30,
+  "sse_address": null
+}
